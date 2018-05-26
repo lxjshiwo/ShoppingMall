@@ -1,0 +1,4 @@
+#Wed Mar 28 12:09:34 CST 2018
+base.0=D\:\\tools\\workspace\\ShopppingMall\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+renamed.0=classes.dex
+file.0=D\:\\tools\\workspace\\ShopppingMall\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7\\classes.dex
